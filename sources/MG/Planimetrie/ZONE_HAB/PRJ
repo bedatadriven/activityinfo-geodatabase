@@ -1,0 +1,14 @@
+Projection    OBLIQUE_MERCATOR
+Zunits        NO
+Units         METERS
+Spheroid      INTERNATIONAL1909
+Xshift        0.0000000000
+Yshift        0.0000000000
+Parameters
+            2 /* Projection type < 1 | 2 >
+0.99950 /* Scale factor at the projection's center
+ 46 26 14.025 /* Longitude of the projection's center (DM
+-18 54  0.000 /* Latitude  of the projection's center (DM
+18.90000 /* Azimuth at the projection's center
+1113136.31460 /* False easting  (meters)
+2882900.72790 /* False northing (meters)

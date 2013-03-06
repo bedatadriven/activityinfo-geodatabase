@@ -1,0 +1,12 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 5
+    ID Decimal (11, 0) ;
+    TYPE Char (7) ;
+    ETAT Char (12) ;
+    NUMERO Char (4) ;
+    POSITION Char (30) ;
