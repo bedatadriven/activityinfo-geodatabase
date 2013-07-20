@@ -1,0 +1,4 @@
+200504071413   0     0     0 c:\windows\temp\gext8 = CON(ISNULL(c:\windows\temp\grid2),c:\windows\temp\grid2,d:\ci_forets_laborde\mapdeflab\mad_laborde)
+200504071434   1     0     0 c:\windows\temp\gext9 = CON(ISNULL(c:\windows\temp\grid2),c:\windows\temp\grid2,d:\mnt\dem_srtm_lbd)
+200504071434   0     0     0 c:\windows\temp\hlshd9 = HILLSHADE(c:\windows\temp\gext9,315,45,#,#)
+200504071437   0     0     0 c:\windows\temp\slope6 = SLOPE(c:\windows\temp\hlshd9)
